@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Su]per Sparty Bros Distribution
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
