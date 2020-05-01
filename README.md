@@ -6,9 +6,11 @@
 - Sparty can stun the enemy for sometime by jumping on the head of it.
 - The Player can double jump to reach higher place.
 
-### Screenshots
+## Video ( Click to Watch )
+[![Super Sparty Bros](./Screenshots/1.png)](https://youtu.be/RhBgLR0IJXU
+ "Super Sparty Bros - Click to Watch!")
 
-![screenshot 1](./Screenshots/1.png)
+### Screenshots
 ![screenshot 2](./Screenshots/2.png)
 ![screenshot 3](./Screenshots/3.png)
 ![screenshot 4](./Screenshots/4.png)
